@@ -642,6 +642,162 @@ var cities = [
   {
     "city": "Purnia",
     "state": "Bihar"
+  },
+  {
+    "city": "Satna",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "city": "Mau",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Sonipat",
+    "state": "Haryana"
+  },
+  {
+    "city": "Farrukhabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Sagar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "city": "Rourkela",
+    "state": "Orissa"
+  },
+  {
+    "city": "Durg",
+    "state": "Chhattisgarh"
+  },
+  {
+    "city": "Imphal",
+    "state": "Manipur"
+  },
+  {
+    "city": "Ratlam",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "city": "Hapur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Anantapur",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "city": "Arrah",
+    "state": "Bihar"
+  },
+  {
+    "city": "Karimnagar",
+    "state": "Telangana"
+  },
+  {
+    "city": "Etawah",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Ambernath",
+    "state": "Maharashtra"
+  },
+  {
+    "city": "North Dumdum",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Bharatpur",
+    "state": "Rajasthan"
+  },
+  {
+    "city": "Begusarai",
+    "state": "Bihar"
+  },
+  {
+    "city": "New Delhi",
+    "state": "Delhi"
+  },
+  {
+    "city": "Gandhidham",
+    "state": "Gujarat"
+  },
+  {
+    "city": "Baranagar",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Tiruvottiyur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "city": "Puducherry",
+    "state": "Puducherry"
+  },
+  {
+    "city": "Sikar",
+    "state": "Rajasthan"
+  },
+  {
+    "city": "Thoothukudi",
+    "state": "Tamil Nadu"
+  },
+  {
+    "city": "Rewa",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "city": "Mirzapur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Raichur",
+    "state": "Karnataka"
+  },
+  {
+    "city": "Pali",
+    "state": "Rajasthan"
+  },
+  {
+    "city": "Khammam",
+    "state": "Telangana"
+  },
+  {
+    "city": "Vizianagaram",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "city": "Katihar",
+    "state": "Bihar"
+  },
+  {
+    "city": "Haridwar",
+    "state": "Uttarakhand"
+  },
+  {
+    "city": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "city": "Karawal Nagar",
+    "state": "Delhi"
+  },{
+    "city": "Nagercoil",
+    "state": "Tamil Nadu"
+  },
+  {
+    "city": "Mango",
+    "state": "Jharkhand"
+  },
+  {
+    "city": "Bulandshahr",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Thanjavur",
+    "state": "Tamil Nadu"
   }
+
 
 ]
