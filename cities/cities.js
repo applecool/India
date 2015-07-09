@@ -398,6 +398,250 @@ var cities = [
   {
     "city": "Maheshtala",
     "state": "West Bengal"
+  },
+  {
+    "city": "Tirupur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "city": "Davanagere",
+    "state": "Karnataka"
+  },
+  {
+    "city": "Kozhikode",
+    "state": "Kerala"
+  },
+  {
+    "city": "Akola",
+    "state": "Maharashtra"
+  },
+  {
+    "city": "Kurnool",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "city": "Rajpur Sonarpur",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Bokaro",
+    "state": "Jharkhand"
+  },
+  {
+    "city": "South Dumdum",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Bellary",
+    "state": "Karnataka"
+  },
+  {
+    "city": "Patiala",
+    "state": "Punjab"
+  },
+  {
+    "city": "Gopalpur",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Agartala",
+    "state": "Tripura"
+  },
+  {
+    "city": "Bhagalpur",
+    "state": "Bihar"
+  },
+  {
+    "city": "Muzaffarnagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Bhatpara",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Panihati",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Latur",
+    "state": "Maharashtra"
+  },
+  {
+    "city": "Dhule",
+    "state": "Maharashtra"
+  },
+  {
+    "city": "Rohtak",
+    "state": "Haryana"
+  },
+  {
+    "city": "Korba",
+    "state": "Chhattisgarh"
+  },
+  {
+    "city": "Bhilwara",
+    "state": "Rajasthan"
+  },
+  {
+    "city": "Brahmapur",
+    "state": "Orissa"
+  },
+  {
+    "city": "Muzaffarpur",
+    "state": "Bihar"
+  },
+  {
+    "city": "Ahmednagar",
+    "state": "Maharashtra"
+  },
+  {
+    "city": "Mathura",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Kollam",
+    "state": "Kerala"
+  },
+  {
+    "city": "Avadi",
+    "state": "Tamil Nadu"
+  },
+  {
+    "city": "Rajahmundry",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "city": "Kadapa",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "city": "Kamarhati",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Bilaspur",
+    "state": "Chhattisgarh"
+  },
+  {
+    "city": "Shahjahanpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Bijapur",
+    "state": "Karnataka"
+  },
+  {
+    "city": "Rampur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "city": "Shivamogga(Shimoga)",
+    "state": "Karnataka"
+  },
+  {
+    "city": "Chandrapur",
+    "state": "Maharashtra"
+  },
+  {
+    "city": "Junagadh",
+    "state": "Gujarat"
+  },
+  {
+    "city": "Thrissur",
+    "state": "Kerala"
+  },
+  {
+    "city": "Alwar",
+    "state": "Rajasthan"
+  },
+  {
+    "city": "Bardhaman",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Kulti",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Kakinada",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "city": "Nizamabad",
+    "state": "Telangana"
+  },
+  {
+    "city": "Parbhani",
+    "state": "Maharashtra"
+  },
+  {
+    "city": "Tumkur",
+    "state": "Karnataka"
+  },
+  {
+    "city": "Hisar",
+    "state": "Haryana"
+  },
+  {
+    "city": "Ozhukarai",
+    "state": "Pudicherry"
+  },
+  {
+    "city": "Bihar Sharif",
+    "state": "Bihar"
+  },
+  {
+    "city": "Panipat",
+    "state": "Haryana"
+  },
+  {
+    "city": "Darbhanga",
+    "state": "Bihar"
+  },
+  {
+    "city": "Bally",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Aizawi",
+    "state": "Mizoram"
+  },
+  {
+    "city": "Dewas",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "city": "Ichakaranji",
+    "state": "Maharashtra"
+  },
+  {
+    "city": "Tirupati",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "city": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "city": "Bathinda",
+    "state": "Punjab"
+  },
+  {
+    "city": "Jalna",
+    "state": "Maharashtra"
+  },
+  {
+    "city": "Barasat",
+    "state": "West Bengal"
+  },
+  {
+    "city": "Kirari Suleman Nagar",
+    "state": "Delhi"
+  },
+  {
+    "city": "Purnia",
+    "state": "Bihar"
   }
 
 ]
